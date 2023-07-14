@@ -6,8 +6,6 @@
 
 **Date of Submission:** 14/07/2023
 
-**Abstract**:
-
 **Introduction:**
 The classification of clothing items plays a crucial role in various applications, such as e-commerce, fashion industry analysis, and personalized recommendation systems. The Fashion MNIST dataset, consisting of grayscale images of fashion products, provides a suitable benchmark for developing clothing classification models. In this project, our aim is to design and train a CNN model capable of accurately categorizing the images into ten clothing classes.
 
