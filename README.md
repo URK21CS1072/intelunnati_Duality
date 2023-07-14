@@ -3,7 +3,7 @@
 **Team Name:** Duality
 **Authors:** DANIEL PREM
          DHARSHAN DELWIN D
-
+**College Mentor Name :** P. Getzi Jeba Leelipushpam
 **Date of Submission:** 14/07/2023
 
 **Introduction:**
