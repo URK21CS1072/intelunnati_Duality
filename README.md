@@ -1,14 +1,14 @@
 # intelunnati_Duality
-Title: Conquering Fashion MNIST with CNNs using Computer Vision
-Team Name: Duality
-Authors: DANIEL PREM
+**Title:** Conquering Fashion MNIST with CNNs using Computer Vision
+**Team Name:** Duality
+**Authors:** DANIEL PREM
          DHARSHAN DELWIN D
 
-Date of Submission: 14/07/2023
+**Date of Submission:** 14/07/2023
 
 **Abstract**:
 
-Introduction:
+**Introduction:**
 The classification of clothing items plays a crucial role in various applications, such as e-commerce, fashion industry analysis, and personalized recommendation systems. The Fashion MNIST dataset, consisting of grayscale images of fashion products, provides a suitable benchmark for developing clothing classification models. In this project, our aim is to design and train a CNN model capable of accurately categorizing the images into ten clothing classes.
 
 **Motivation behind the Problem:**
@@ -34,7 +34,7 @@ Model 3 :The VGG-based CNN model achieved an accuracy of 91.5% on the test set. 
 
 Intel Optimization(OPENVINO): By utilizing Intel optimization tool OPENVINO we observed a noticeable improvement in inference speed compared to the TensorFlow implementation.
  
- 
+
 **References:**
 Xiao, H., et al. (2017). Fashion-MNIST: A Novel Image Dataset for Benchmarking Machine Learning Algorithms. arXiv preprint arXiv:1708.07747. Retrieved from https://arxiv.org/abs/1708.07747
 Intel Corporation. (n.d.). OpenVINO™ Toolkit Documentation. Retrieved from https://docs.openvinotoolkit.org/
